@@ -82,7 +82,7 @@
 
 To get a local copy up and running, follow these steps.
 ````
-git clone https://github.com/PRATAP-KUMAR/hello-rails-react
+git clone https://github.com/Amtresu/hello-rails-react
 cd hello-rails-react
 ls
 ````
