@@ -129,7 +129,7 @@ Tests not implemented yet
 
 ## 👥 Author <a name="author"></a>
 
-👤 **Author**
+👤 **Conor Follette**
 
 - GitHub: [@Amtresu](https://github.com/Amtresu)
 
